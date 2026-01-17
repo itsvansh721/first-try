@@ -13,4 +13,4 @@ This is a simple HTML, CSS, and JavaScript project to practice GitHub uploads.
 3. Click the button to test the script
 
 ## Author
-Your Name
+Vansh 
